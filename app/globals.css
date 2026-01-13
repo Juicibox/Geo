@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos para Leaflet */
+@import 'leaflet/dist/leaflet.css';
+
+/* Fix para iconos de Leaflet */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+/* Filtro opcional de escala de grises para el mapa */
+.leaflet-container.grayscale {
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+/* Estilo mejorado para el mapa con CartoDB Positron */
+.leaflet-container {
+  background-color: #f5f5f3;
+}
+
+/* Estilos para marcadores personalizados con número */
+.custom-marker-cluster {
+  background: transparent !important;
+  border: none !important;
+}
