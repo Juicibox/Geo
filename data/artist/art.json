@@ -1,0 +1,21 @@
+[
+    {
+      "Nombre": "María Yanel",
+      "Descripción": "Tecnóloga en Cine y Fotografía, 15 años de experiencia, realizadora de audiovisuales.",
+      "Departamento": "Boyacá",
+      "Municipio": "Tunja",
+      "Genero": "F",
+      "Actividad": "Cinematógrafo",
+      "Coordenadas": [-73.355539, 5.53988]
+    },
+    {
+      "Nombre": "Julian David",
+      "Descripción": "Profesional en cine y tv DP/AC/OC con énfasis en dirección de fotografía, operador de cámara y asistente de cámara, luminotecnia.",
+      "Departamento": "Boyacá",
+      "Municipio": "Tibasosa",
+      "Genero": "M",
+      "Actividad": "Cinematógrafo",
+      "Coordenadas": [-73.355539, 5.53988]
+    }
+    
+  ]
